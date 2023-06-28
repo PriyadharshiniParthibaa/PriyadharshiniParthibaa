@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
 <h3 align="center">A passionate python developer </h3>
-img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-gif-25868426")
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadharshiniparthibaa&label=Profile%20views&color=0e75b6&style=flat" alt="priyadharshiniparthibaa" /> </p>
